@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.internal.util.pixelage;
+package com.android.internal.util.pixelstar;
 
 import android.content.res.Resources;
 import android.provider.Settings;

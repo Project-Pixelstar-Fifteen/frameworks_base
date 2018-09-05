@@ -1,4 +1,4 @@
-package com.android.internal.util.pixelage;
+package com.android.internal.util.pixelstar;
 
 import android.content.ContentResolver;
 import android.content.Context;
